@@ -1,0 +1,4 @@
+mirroring_add 500 255
+set_queue_depth 1000
+table_add dnat_table change_dstAddr 10.0.10.10 => 10.0.2.2
+table_add snat_table change_srcAddr 10.0.2.2 => 10.0.10.10

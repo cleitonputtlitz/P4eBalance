@@ -1,0 +1,64 @@
+{
+    "switches": [
+        {
+            "name": "s1",
+            "address": "127.0.0.1:50051",
+            "device_id": 0,
+            "proto_dump_file": "../logs/s1-p4runtime-requests.txt"
+        },
+        {
+            "name": "s2",
+            "address": "127.0.0.1:50052",
+            "device_id": 1,
+            "proto_dump_file": "../logs/s2-p4runtime-requests.txt"
+        },
+        {
+            "name": "s3",
+            "address": "127.0.0.1:50053",
+            "device_id": 2,
+            "proto_dump_file": "../logs/s3-p4runtime-requests.txt"
+        },
+        {
+            "name": "s4",
+            "address": "127.0.0.1:50054",
+            "device_id": 3,
+            "proto_dump_file": "../logs/s4-p4runtime-requests.txt"
+        },
+        {
+            "name": "s5",
+            "address": "127.0.0.1:50055",
+            "device_id": 4,
+            "proto_dump_file": "../logs/s5-p4runtime-requests.txt"
+        },
+        {
+            "name": "s6",
+            "address": "127.0.0.1:50056",
+            "device_id": 5,
+            "proto_dump_file": "../logs/s6-p4runtime-requests.txt"
+        },
+        {
+            "name": "s7",
+            "address": "127.0.0.1:50057",
+            "device_id": 6,
+            "proto_dump_file": "../logs/s7-p4runtime-requests.txt"
+        },
+        {
+            "name": "s8",
+            "address": "127.0.0.1:50058",
+            "device_id": 7,
+            "proto_dump_file": "../logs/s8-p4runtime-requests.txt"
+        },
+        {
+            "name": "s9",
+            "address": "127.0.0.1:50059",
+            "device_id": 8,
+            "proto_dump_file": "../logs/s9-p4runtime-requests.txt"
+        },
+        {
+            "name": "s10",
+            "address": "127.0.0.1:50060",
+            "device_id": 9,
+            "proto_dump_file": "../logs/s10-p4runtime-requests.txt"
+        }
+    ]
+}

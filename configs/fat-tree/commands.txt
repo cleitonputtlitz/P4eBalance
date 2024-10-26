@@ -1,0 +1,2 @@
+mirroring_add 500 255
+set_queue_depth 1000

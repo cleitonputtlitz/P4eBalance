@@ -1,0 +1,18 @@
+
+sudo apt-get install clang-11 libc++-11-dev libc++abi-11-dev
+sudo apt-get install gcc-multilib
+sudo apt-get install libbpf-dev
+
+sudo apt-get install redis-server
+apt install python3-bpfcc
+
+
+gym,
+stable_baselines3,
+shimmy>=0.2.1
+redis
+flash
+requests
+bcc
+numba
+flask
